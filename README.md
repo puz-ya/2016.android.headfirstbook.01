@@ -1,3 +1,5 @@
-# 2016.android.headfirstbook.01
+# Chapter 01. Setup.
 
-View "Sup doge" text. No more, no less.
+First app from book.
+
+Show "Sup doge" text. No more, no less.
